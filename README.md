@@ -1,6 +1,6 @@
 # Book
 1. After cloning this repository, go to command line.
-2. start the mongodb server
+2. start the mongodb server (sudo service mongod start)
 3. open the mongodb compass client and create a database called (example) and create a collection called books thereafter.
 4. click on add data and import the books.json from the db_scripts folder.
 5. now in local cli navigate to cloned repository.
