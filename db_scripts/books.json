@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6126137adc91ea00bb3fa050"
+  },
+  "author": [
+    "carl sagan",
+    "mason green"
+  ],
+  "category": "scifi",
+  "title": "cosmosnew"
+},{
+  "_id": {
+    "$oid": "61261462b1be2fb5e33d2f03"
+  },
+  "title": "the ALchemist",
+  "category": "philosophy",
+  "author": [
+    "paulo coelho",
+    "danny brown"
+  ]
+},{
+  "_id": {
+    "$oid": "6126150cb1be2fb5e33d2f04"
+  },
+  "title": "journey through time",
+  "category": "mystery",
+  "author": [
+    "h.g tannhaus",
+    "a.g styles"
+  ]
+}]
